@@ -1,0 +1,65 @@
+program1 print myname
+
+// public class methodbasic { 
+
+//     static void MyName(){
+//         System.out.println("Deepak kumar yadav");
+//     }
+//   public static void main(String args[]){
+//     MyName();
+
+
+//   }  
+// }
+
+//Program 2print number from 1to 10 using method
+
+// public class methodbasic {
+//     static void number(){
+//   for(int i=1;i<=10;i++){
+//     System.out.println(i +" ");
+//   }
+// }
+//     public static void main(String args[]){
+//         number();
+//     }
+//   }
+      
+//program 3 find square of a two number using method
+
+// 
+//  public class methodbasic{
+//     public static void square(){
+//  int n=5;
+//  int square =n*n;
+//  System.out.println("square of a number is :" +square);
+
+//     }
+//     public static void main(String []args){
+//         square();
+
+//     }
+        
+    
+//  }
+
+//programs 4 find a maximum no of a element from method
+
+// public class methodbasic{
+//     public static void findmax(){
+// int a=10;
+// int b=20;
+// if(a>b){
+//     System.out.println("maximum number is:"+a);
+
+// }
+// else{
+//     System.out.println("maximum number is:" +b);
+// }
+//     }
+// public static void main(String [] args){
+//     findmax(); 
+// }
+//     }
+  
+
