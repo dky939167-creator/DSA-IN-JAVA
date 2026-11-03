@@ -1,0 +1,11 @@
+public class methodbasic { 
+
+    static void MyName(){
+        System.out.println("Deepak kumar yadav");
+    }
+  public static void main(String args[]){
+    MyName();
+
+
+  }  
+}
